@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D3042E92B498843005C16C5 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3042E82B498843005C16C5 /* ContentViewModel.swift */; };
+		9D768CE42B5F48130064C0F8 /* CoreDataExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D768CE32B5F48130064C0F8 /* CoreDataExtensions.swift */; };
 		9DABC2DF2B498459009CE03F /* DiscoverApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DABC2DE2B498459009CE03F /* DiscoverApp.swift */; };
 		9DABC2E12B498459009CE03F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DABC2E02B498459009CE03F /* ContentView.swift */; };
 		9DABC2E32B49845A009CE03F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DABC2E22B49845A009CE03F /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D3042E82B498843005C16C5 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		9D768CE32B5F48130064C0F8 /* CoreDataExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataExtensions.swift; sourceTree = "<group>"; };
 		9DABC2DB2B498459009CE03F /* Discover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Discover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DABC2DE2B498459009CE03F /* DiscoverApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverApp.swift; sourceTree = "<group>"; };
 		9DABC2E02B498459009CE03F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +37,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9D3042E72B49882D005C16C5 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				9D3042E82B498843005C16C5 /* ContentViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		9D768CE22B5F47EF0064C0F8 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				9D768CE32B5F48130064C0F8 /* CoreDataExtensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		9DABC2D22B498459009CE03F = {
 			isa = PBXGroup;
 			children = (
@@ -80,6 +100,8 @@
 		9DABC2EE2B4984A2009CE03F /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				9D768CE22B5F47EF0064C0F8 /* Extensions */,
+				9D3042E72B49882D005C16C5 /* ViewModel */,
 				9DABC2E02B498459009CE03F /* ContentView.swift */,
 			);
 			path = Views;
@@ -157,6 +179,8 @@
 			files = (
 				9DABC2E12B498459009CE03F /* ContentView.swift in Sources */,
 				9DABC2DF2B498459009CE03F /* DiscoverApp.swift in Sources */,
+				9D768CE42B5F48130064C0F8 /* CoreDataExtensions.swift in Sources */,
+				9D3042E92B498843005C16C5 /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
