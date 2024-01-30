@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9D3042E92B498843005C16C5 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3042E82B498843005C16C5 /* ContentViewModel.swift */; };
 		9D768CE42B5F48130064C0F8 /* CoreDataExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D768CE32B5F48130064C0F8 /* CoreDataExtensions.swift */; };
+		9D768CE62B5F48A60064C0F8 /* PlatformExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D768CE52B5F48A60064C0F8 /* PlatformExtensions.swift */; };
 		9DABC2DF2B498459009CE03F /* DiscoverApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DABC2DE2B498459009CE03F /* DiscoverApp.swift */; };
 		9DABC2E12B498459009CE03F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DABC2E02B498459009CE03F /* ContentView.swift */; };
 		9DABC2E32B49845A009CE03F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DABC2E22B49845A009CE03F /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* Begin PBXFileReference section */
 		9D3042E82B498843005C16C5 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		9D768CE32B5F48130064C0F8 /* CoreDataExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataExtensions.swift; sourceTree = "<group>"; };
+		9D768CE52B5F48A60064C0F8 /* PlatformExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatformExtensions.swift; sourceTree = "<group>"; };
 		9DABC2DB2B498459009CE03F /* Discover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Discover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DABC2DE2B498459009CE03F /* DiscoverApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverApp.swift; sourceTree = "<group>"; };
 		9DABC2E02B498459009CE03F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 		9D768CE22B5F47EF0064C0F8 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				9D768CE52B5F48A60064C0F8 /* PlatformExtensions.swift */,
 				9D768CE32B5F48130064C0F8 /* CoreDataExtensions.swift */,
 			);
 			path = Extensions;
@@ -178,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DABC2E12B498459009CE03F /* ContentView.swift in Sources */,
+				9D768CE62B5F48A60064C0F8 /* PlatformExtensions.swift in Sources */,
 				9DABC2DF2B498459009CE03F /* DiscoverApp.swift in Sources */,
 				9D768CE42B5F48130064C0F8 /* CoreDataExtensions.swift in Sources */,
 				9D3042E92B498843005C16C5 /* ContentViewModel.swift in Sources */,
