@@ -52,7 +52,7 @@ This privacy policy is effective as of 2025-11-24
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
 
-**Terms & Conditions**
+## Terms & Conditions
 
 These terms and conditions apply to the Expenz - Budget Tracker app (hereby referred to as "Application") for mobile devices that was created by Maheshwaran M (hereby referred to as "Service Provider") as a Freemium service.
 
