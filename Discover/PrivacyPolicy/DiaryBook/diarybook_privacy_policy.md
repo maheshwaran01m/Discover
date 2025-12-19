@@ -1,6 +1,6 @@
 Privacy Policy
 
-This privacy policy applies to the Daily Journal Book app (hereby referred to as "Application") for mobile devices that was created by Maheshwaran Muthappan (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Daily Habit Planner app (hereby referred to as "Application") for mobile devices that was created by Maheshwaran Muthappan (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 Information Collection and Use
 
