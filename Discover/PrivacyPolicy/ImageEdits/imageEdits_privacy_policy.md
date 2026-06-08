@@ -1,12 +1,10 @@
 ### Privacy Policy
 
-This privacy policy applies to the Image Edits app (hereby referred to as "Application") for mobile / desktop devices that was created by Maheshwaran Muthappan (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Mobile app (hereby referred to as "Application") for mobile / desktop devices that was created by Maheshwaran Muthappan (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 Information Collection and Use
 
 The Application collects information when you download and use it. This information may include information such as Your device's Internet Protocol address (e.g. IP address) The pages of the Application that you visit, the time and date of your visit, the time spent on those pages The time spent on the Application The operating system you use on your mobile device
-
-The Application does gather precise information about the location of your mobile device for your expense information and stored on device.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
@@ -14,7 +12,7 @@ For a better experience, while using the Application, the Service Provider may r
 
 Third Party Access
 
-The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Service Provider do not share any information with third parties in the ways that are described in this privacy statement.
 
 The Service Provider may disclose User Provided and Automatically Collected Information: as required by law, such as to comply with a subpoena, or similar legal process; when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
@@ -28,7 +26,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 Children
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 4.
 
 The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (maheshwaran03m@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
