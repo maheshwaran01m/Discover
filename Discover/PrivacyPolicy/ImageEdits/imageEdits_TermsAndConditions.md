@@ -1,6 +1,6 @@
 ### Terms & Conditions
 
-These terms and conditions apply to the Image Edits app (hereby referred to as "Application") for mobile / desktop devices that was created by Maheshwaran M (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions apply to the App (hereby referred to as "Application") for mobile / desktop devices that was created by Maheshwaran M (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
